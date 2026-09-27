@@ -61,6 +61,12 @@ The experiment numbering follows the current notebook collection; it is not inte
 
 Each experiment directory contains a short README describing its notebook(s), dependencies, and expected data flow.
 
+## Research pipeline
+
+A more detailed description of how the experiments connect is available in [`theory/research_pipeline.md`](theory/research_pipeline.md). The core discrete quantities are summarized in [`theory/equations.md`](theory/equations.md).
+
+The current repository extends the original controlled experiments with GPT-2 Small, Medium, and Large studies. These later notebooks should be viewed as extensions of the same dynamical framework rather than as interchangeable reproductions of the earlier experiments.
+
 ## Reproducibility
 
 ### Classical experiments
