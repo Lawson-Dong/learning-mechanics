@@ -1,0 +1,10 @@
+# Minimal environment for the repository.
+#
+# Classical experiments:
+#   pip install -r requirements/classical.txt
+#
+# GPT-2 small/medium experiments:
+#   pip install -r requirements/gpt2.txt
+#
+# GPT-2 large + LoRA:
+#   pip install -r requirements/gpt2-large.txt
