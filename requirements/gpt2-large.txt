@@ -1,0 +1,3 @@
+-r gpt2.txt
+peft
+torchao>=0.16.0
