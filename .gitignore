@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter / local settings
+.jupyter/
+.vscode/
+.idea/
+
+# Experiment outputs
+*.npz
+*.npy
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.zip
+*.rar
+*.7z
+
+# Generated figures / tables
+results/figures/*
+results/tables/*
+
+# Hugging Face / model caches
+.cache/
+cache/
+huggingface/
+transformers_cache/
+wandb/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
